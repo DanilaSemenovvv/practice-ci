@@ -1,0 +1,10 @@
+
+
+FUNCTIONS
+
+func Add(a, b int) int
+    Add складывает два числа и возвращает результат.
+
+func Sub(a, b int) int
+    Sub вычитает второе число из первого.
+
